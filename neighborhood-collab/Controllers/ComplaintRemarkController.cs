@@ -108,6 +108,7 @@ namespace neighborhood_collab.Controllers.Complaints
             var remark = new ComplaintRemark
             {
                 ComplaintId = dto.ComplaintId,
+
                 UserId = dto.UserId,
                 Content = dto.Content
             };
