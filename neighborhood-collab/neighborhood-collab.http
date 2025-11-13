@@ -1,6 +1,0 @@
-@neighborhood_collab_HostAddress = http://localhost:5200
-
-GET {{neighborhood_collab_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
